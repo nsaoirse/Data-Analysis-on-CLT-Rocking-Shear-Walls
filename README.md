@@ -3,7 +3,7 @@
 <div class=WordSection1>
 
 <p class=MsoTitleCxSpFirst><em><span style='font-size:20.0pt;font-family:"Calibri Light",sans-serif;
-font-style:normal'>AMATH 582 Final: Data Analysis on CLT Rocking Shear Walls</span></em></p>
+font-style:normal'>Data Analysis on CLT Rocking Shear Walls</span></em></p>
 
 <div>
 
